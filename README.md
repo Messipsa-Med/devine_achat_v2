@@ -1,5 +1,7 @@
 # devine_achat_v2
 
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h2tF3GxeMeXhcqK0z9fzLT8bD-IR9epw)
+
 Ce projet prédit si un utilisateur va acheter un produit en fonction de son âge et de son salaire.  
 L’IA apprend et s’améliore à chaque interaction avec l’utilisateur.
 
