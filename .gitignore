@@ -1,0 +1,7 @@
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
